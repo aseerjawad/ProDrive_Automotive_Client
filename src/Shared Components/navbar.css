@@ -3,3 +3,14 @@ li:hover {
     color: white;
     border-radius: 10px;
 }
+
+.logo {
+    clip-path: polygon(0 0, 100% 0, 80% 100%, 0 100%);
+    background: yellow;
+
+}
+
+.navigation_bar {
+    clip-path: polygon(4% 0, 100% 0, 100% 100%, 0 100%);
+
+}

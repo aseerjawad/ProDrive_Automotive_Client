@@ -6,6 +6,10 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      'siara': ['Saira Semi Condensed', 'sans-serif'],
+      'Roboto_slab': ['Roboto Slab', 'serif']
+    }
   },
   plugins: [require("daisyui")],
 }

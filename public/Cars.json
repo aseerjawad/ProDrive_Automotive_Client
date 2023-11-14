@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Nissan Altima",
+        "image": "https://4wheelerbd.com/wp-content/uploads/2020/11/kia-optima-dark-silver-300x300.jpg",
+        "car_type": "Sedan",
+        "mileage_city": "28 mpg",
+        "fuel_type": "Gasoline",
+        "category": "Midsize",
+        "description": "The Nissan Altima is a stylish midsize sedan known for its comfort, advanced safety features, and fuel efficiency.",
+        "price": "$24,000"
+    },
+    {
+        "name": "Nissan Rogue",
+        "image": "https://4wheelerbd.com/wp-content/uploads/2020/11/kia-optima-dark-silver-300x300.jpg",
+        "car_type": "SUV",
+        "mileage_city": "25 mpg",
+        "fuel_type": "Gasoline",
+        "category": "Compact SUV",
+        "description": "The Nissan Rogue is a popular compact SUV offering versatility, spacious interior, and advanced technology features.",
+        "price": "$27,500"
+    },
+    {
+        "name": "Nissan Sentra",
+        "image": "https://4wheelerbd.com/wp-content/uploads/2020/11/kia-optima-dark-silver-300x300.jpg",
+        "car_type": "Sedan",
+        "mileage_city": "29 mpg",
+        "fuel_type": "Gasoline",
+        "category": "Compact",
+        "description": "The Nissan Sentra is a reliable compact sedan, featuring modern design, fuel efficiency, and advanced safety technology.",
+        "price": "$19,500"
+    },
+    {
+        "name": "Nissan Murano",
+        "image": "https://4wheelerbd.com/wp-content/uploads/2020/11/kia-optima-dark-silver-300x300.jpg",
+        "car_type": "SUV",
+        "mileage_city": "21 mpg",
+        "fuel_type": "Gasoline",
+        "category": "Midsize SUV",
+        "description": "The Nissan Murano is a midsize SUV with a sleek design, comfortable interior, and a smooth, quiet ride.",
+        "price": "$32,000"
+    },
+    {
+        "name": "Nissan Maxima",
+        "image": "https://4wheelerbd.com/wp-content/uploads/2020/11/kia-optima-dark-silver-300x300.jpg",
+        "car_type": "Sedan",
+        "mileage_city": "22 mpg",
+        "fuel_type": "Gasoline",
+        "category": "Full-Size",
+        "description": "The Nissan Maxima is a full-size sedan offering a powerful engine, upscale interior, and advanced technology.",
+        "price": "$35,000"
+    },
+    {
+        "name": "Nissan Kicks",
+        "image": "https://4wheelerbd.com/wp-content/uploads/2020/11/kia-optima-dark-silver-300x300.jpg",
+        "car_type": "SUV",
+        "mileage_city": "31 mpg",
+        "fuel_type": "Gasoline",
+        "category": "Subcompact SUV",
+        "description": "The Nissan Kicks is a subcompact SUV with a sporty design, efficient performance, and advanced safety features.",
+        "price": "$19,500"
+    },
+    {
+        "name": "Nissan Armada",
+        "image": "https://4wheelerbd.com/wp-content/uploads/2020/11/kia-optima-dark-silver-300x300.jpg",
+        "car_type": "SUV",
+        "mileage_city": "14 mpg",
+        "fuel_type": "Gasoline",
+        "category": "Full-Size SUV",
+        "description": "The Nissan Armada is a full-size SUV offering spacious seating, towing capabilities, and premium features.",
+        "price": "$48,000"
+    },
+    {
+        "name": "Nissan Versa",
+        "image": "https://4wheelerbd.com/wp-content/uploads/2020/11/kia-optima-dark-silver-300x300.jpg",
+        "car_type": "Sedan",
+        "mileage_city": "32 mpg",
+        "fuel_type": "Gasoline",
+        "category": "Subcompact",
+        "description": "The Nissan Versa is a subcompact sedan known for its affordability, fuel efficiency, and practicality.",
+        "price": "$15,000"
+    },
+    {
+        "name": "Nissan Pathfinder",
+        "image": "https://4wheelerbd.com/wp-content/uploads/2020/11/kia-optima-dark-silver-300x300.jpg",
+        "car_type": "SUV",
+        "mileage_city": "20 mpg",
+        "fuel_type": "Gasoline",
+        "category": "Midsize SUV",
+        "description": "The Nissan Pathfinder is a midsize SUV with off-road capabilities, a comfortable interior, and advanced safety features.",
+        "price": "$33,000"
+    },
+    {
+        "name": "Nissan Titan",
+        "image": "https://4wheelerbd.com/wp-content/uploads/2020/11/kia-optima-dark-silver-300x300.jpg",
+        "car_type": "Truck",
+        "mileage_city": "15 mpg",
+        "fuel_type": "Gasoline",
+        "category": "Full-Size Truck",
+        "description": "The Nissan Titan is a full-size truck known for its powerful performance, towing capacity, and rugged design.",
+        "price": "$38,000"
+    }
+]

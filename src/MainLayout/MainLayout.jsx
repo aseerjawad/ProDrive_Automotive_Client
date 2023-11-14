@@ -7,9 +7,8 @@ import Banner from '../Components/Banner/Banner';
 
 const MainLayout = () => {
     return (
-        <div>
+        <div className='max-w-[1600px] m-auto'>
             <Navbar></Navbar>
-            <Banner></Banner>
             <Outlet></Outlet>
         </div>
     );

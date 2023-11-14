@@ -1,0 +1,16 @@
+[
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "John Doe",
+        "service_taken": "Car Purchase",
+        "comments": "I recently bought a car from this website, and I am extremely satisfied with the purchase. The process was smooth from browsing the inventory to the final paperwork. The staff was knowledgeable and patient, answering all my questions. The car is in excellent condition, both aesthetically and mechanically. The pricing was fair, and I felt like I got a great deal. The delivery was on time, and the vehicle was spotless. Overall, it was a fantastic experience, and I highly recommend this website for car purchases. 5 stars!",
+        "rating": 5
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Alice Smith",
+        "service_taken": "Car Parts Purchase",
+        "comments": "I recently ordered car parts online, and I had a positive experience. The website's user interface made it easy to find the specific parts I needed. The product descriptions were detailed, helping me make informed decisions. The parts arrived on time, well-packaged, and they were exactly as described. The quality of the parts exceeded my expectations. I appreciate the wide range of options available on the website. I will definitely be a returning customer. 4 stars!",
+        "rating": 4
+    }
+]

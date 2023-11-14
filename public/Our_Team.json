@@ -1,0 +1,182 @@
+[
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "John Smith",
+        "profession": "Sales Manager",
+        "university": "University of Business Administration"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Alice Johnson",
+        "profession": "Sales Representative",
+        "university": "Sales University"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Emily Davis",
+        "profession": "Customer Service Representative",
+        "university": "Customer Relations Institute"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Michael Turner",
+        "profession": "Automotive Technician",
+        "university": "Automotive Technology Institute"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Rachel Miller",
+        "profession": "Diagnostic Technician",
+        "university": "Diagnostic Sciences University"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Brian Turner",
+        "profession": "Finance Manager",
+        "university": "Financial Management School"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Samantha White",
+        "profession": "Accountant",
+        "university": "Accounting and Finance Institute"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "David Clark",
+        "profession": "Marketing Manager",
+        "university": "Marketing Excellence College"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Olivia Adams",
+        "profession": "Digital Marketing Specialist",
+        "university": "Digital Marketing Academy"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Richard Johnson",
+        "profession": "Inventory Manager",
+        "university": "Inventory Control University"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Linda Williams",
+        "profession": "Garage Manager",
+        "university": "Automotive Management Institute"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Daniel Scott",
+        "profession": "IT Support",
+        "university": "Information Technology Institute"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Jennifer Taylor",
+        "profession": "Human Resources Manager",
+        "university": "Human Resources Institute"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Eric Robinson",
+        "profession": "Legal Advisor",
+        "university": "Law School of Business"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Grace Turner",
+        "profession": "Logistics Coordinator",
+        "university": "Logistics and Supply Chain University"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Christopher Brown",
+        "profession": "Quality Control Inspector",
+        "university": "Quality Assurance College"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Victoria Carter",
+        "profession": "General Manager",
+        "university": "Business Leadership School"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Alex Mitchell",
+        "profession": "Security Personnel",
+        "university": "Security and Safety Institute"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Sophia Adams",
+        "profession": "Training Coordinator",
+        "university": "Professional Development Institute"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Brandon Turner",
+        "profession": "IT Infrastructure Specialist",
+        "university": "IT Infrastructure University"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Mark Davis",
+        "profession": "Mechanic",
+        "university": "Automotive Repair Institute"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Jessica White",
+        "profession": "Mechanic",
+        "university": "Technical Automotive College"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Kevin Robinson",
+        "profession": "Mechanic",
+        "university": "Mechanical Engineering School"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Megan Taylor",
+        "profession": "Mechanic",
+        "university": "Automotive Technology Institute"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Ryan Adams",
+        "profession": "Mechanic",
+        "university": "Technical Training Center"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Sophie Turner",
+        "profession": "Mechanic",
+        "university": "Automotive Service Excellence College"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Jake Brown",
+        "profession": "Mechanic",
+        "university": "Technical Automotive Institute"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Emma Johnson",
+        "profession": "Mechanic",
+        "university": "Mechanical Engineering Institute"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Kyle Williams",
+        "profession": "Mechanic",
+        "university": "Automotive Repair and Maintenance School"
+    },
+    {
+        "image": "https://i.ibb.co/TW8sRHG/profile.png",
+        "name": "Ava Clark",
+        "profession": "Mechanic",
+        "university": "Automotive Technical Institute"
+    }
+]

@@ -20,13 +20,13 @@ const Banner = () => {
                 onSwiper={(swiper) => console.log(swiper)}
                 onSlideChange={() => console.log('slide change')}
             >
-                <SwiperSlide><div className='image w-full bg-yellow-500'></div></SwiperSlide>
+                <SwiperSlide><div className='image w-full bg-yellow-400'></div></SwiperSlide>
                 <SwiperSlide><div className='image w-full bg-yellow-500'></div></SwiperSlide>
                 <SwiperSlide><div className='image w-full bg-yellow-500'></div></SwiperSlide>
                 <SwiperSlide><div className='image w-full bg-yellow-500'></div></SwiperSlide>
             </Swiper>
 
-            <div className='h-[70px] w-[1000px] z-50 bg-black absolute -bottom-8'>
+            <div className='h-[70px] w-[1000px] ban z-40 bg-black absolute -bottom-8'>
 
             </div>
         </div>

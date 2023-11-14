@@ -1,0 +1,226 @@
+[
+    {
+        "product_name": "Synthetic Motor Oil",
+        "rating": 4.5,
+        "price": 25.99,
+        "type": "Lubricant",
+        "brand": "Castrol",
+        "image": "synthetic_motor_oil.jpg"
+    },
+    {
+        "product_name": "Ceramic Brake Pads",
+        "rating": 4.8,
+        "price": 39.99,
+        "type": "Brake",
+        "brand": "Bosch",
+        "image": "ceramic_brake_pads.jpg"
+    },
+    {
+        "product_name": "Dual-Tone Car Horn",
+        "rating": 4.2,
+        "price": 15.49,
+        "type": "Horn",
+        "brand": "Hella",
+        "image": "dual_tone_car_horn.jpg"
+    },
+    {
+        "product_name": "All-Season Tires (Set of 4)",
+        "rating": 4.6,
+        "price": 299.99,
+        "type": "Tyre",
+        "brand": "Michelin",
+        "image": "all_season_tires.jpg"
+    },
+    {
+        "product_name": "Maintenance-Free Car Battery",
+        "rating": 4.7,
+        "price": 89.99,
+        "type": "Battery",
+        "brand": "Optima",
+        "image": "maintenance_free_battery.jpg"
+    },
+    {
+        "product_name": "High-Performance Engine Oil",
+        "rating": 4.4,
+        "price": 32.99,
+        "type": "Lubricant",
+        "brand": "Mobil 1",
+        "image": "high_performance_engine_oil.jpg"
+    },
+    {
+        "product_name": "Brake Fluid DOT 4",
+        "rating": 4.6,
+        "price": 12.99,
+        "type": "Brake",
+        "brand": "Valvoline",
+        "image": "brake_fluid_dot_4.jpg"
+    },
+    {
+        "product_name": "Compact Car Horn",
+        "rating": 4.0,
+        "price": 10.99,
+        "type": "Horn",
+        "brand": "Bosch",
+        "image": "compact_car_horn.jpg"
+    },
+    {
+        "product_name": "Performance Summer Tires (Set of 4)",
+        "rating": 4.5,
+        "price": 249.99,
+        "type": "Tyre",
+        "brand": "Pirelli",
+        "image": "performance_summer_tires.jpg"
+    },
+    {
+        "product_name": "Deep Cycle Car Battery",
+        "rating": 4.8,
+        "price": 109.99,
+        "type": "Battery",
+        "brand": "DieHard",
+        "image": "deep_cycle_car_battery.jpg"
+    },
+    {
+        "product_name": "Engine Flush",
+        "rating": 4.2,
+        "price": 8.99,
+        "type": "Lubricant",
+        "brand": "STP",
+        "image": "engine_flush.jpg"
+    },
+    {
+        "product_name": "Carbon Ceramic Brake Rotors",
+        "rating": 4.9,
+        "price": 99.99,
+        "type": "Brake",
+        "brand": "Brembo",
+        "image": "carbon_ceramic_brake_rotors.jpg"
+    },
+    {
+        "product_name": "Air Horn Kit",
+        "rating": 4.1,
+        "price": 29.99,
+        "type": "Horn",
+        "brand": "Vixen Horns",
+        "image": "air_horn_kit.jpg"
+    },
+    {
+        "product_name": "Winter Tires (Set of 4)",
+        "rating": 4.7,
+        "price": 279.99,
+        "type": "Tyre",
+        "brand": "Goodyear",
+        "image": "winter_tires.jpg"
+    },
+    {
+        "product_name": "AGM Car Battery",
+        "rating": 4.6,
+        "price": 129.99,
+        "type": "Battery",
+        "brand": "ACDelco",
+        "image": "agm_car_battery.jpg"
+    },
+    {
+        "product_name": "High-Mileage Motor Oil",
+        "rating": 4.3,
+        "price": 22.99,
+        "type": "Lubricant",
+        "brand": "Pennzoil",
+        "image": "high_mileage_motor_oil.jpg"
+    },
+    {
+        "product_name": "Drilled and Slotted Brake Rotors",
+        "rating": 4.8,
+        "price": 79.99,
+        "type": "Brake",
+        "brand": "Power Stop",
+        "image": "drilled_and_slotted_brake_rotors.jpg"
+    },
+    {
+        "product_name": "Musical Car Horn",
+        "rating": 4.4,
+        "price": 19.99,
+        "type": "Horn",
+        "brand": "FIAMM",
+        "image": "musical_car_horn.jpg"
+    },
+    {
+        "product_name": "Summer Performance Tires (Set of 4)",
+        "rating": 4.5,
+        "price": 329.99,
+        "type": "Tyre",
+        "brand": "Continental",
+        "image": "summer_performance_tires.jpg"
+    },
+    {
+        "product_name": "Marine Dual-Purpose Battery",
+        "rating": 4.7,
+        "price": 149.99,
+        "type": "Battery",
+        "brand": "Exide",
+        "image": "marine_dual_purpose_battery.jpg"
+    },
+    {
+        "product_name": "Fuel System Cleaner",
+        "rating": 4.2,
+        "price": 9.99,
+        "type": "Lubricant",
+        "brand": "Lucas Oil",
+        "image": "fuel_system_cleaner.jpg"
+    },
+    {
+        "product_name": "Emergency Brake Kit",
+        "rating": 4.6,
+        "price": 34.99,
+        "type": "Brake",
+        "brand": "Wagner",
+        "image": "emergency_brake_kit.jpg"
+    },
+    {
+        "product_name": "Train Horn Kit",
+        "rating": 4.0,
+        "price": 59.99,
+        "type": "Horn",
+        "brand": "Kleinn",
+        "image": "train_horn_kit.jpg"
+    },
+    {
+        "product_name": "Performance Winter Tires (Set of 4)",
+        "rating": 4.5,
+        "price": 299.99,
+        "type": "Tyre",
+        "brand": "Firestone",
+        "image": "performance_winter_tires.jpg"
+    },
+    {
+        "product_name": "Lead Acid Car Battery",
+        "rating": 4.8,
+        "price": 79.99,
+        "type": "Battery",
+        "brand": "Duralast",
+        "image": "lead_acid_car_battery.jpg"
+    },
+    {
+        "product_name": "Full Synthetic Engine Oil",
+        "rating": 4.4,
+        "price": 29.99,
+        "type": "Lubricant",
+        "brand": "Royal Purple",
+        "image": "full_synthetic_engine_oil.jpg"
+    },
+    {
+        "product_name": "Performance Brake Calipers",
+        "rating": 4.7,
+        "price": 69.99,
+        "type": "Brake",
+        "brand": "Akebono",
+        "image": "performance_brake_calipers.jpg"
+    },
+    {
+        "product_name": "Bluetooth Car Horn",
+        "rating": 4.1,
+        "price": 24.99,
+        "type": "Horn",
+        "brand": "SoundAlert",
+        "image": "bluetooth_car_horn.jpg"
+    }
+]
